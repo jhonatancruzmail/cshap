@@ -1,0 +1,6 @@
+c:\users\adsi\documents\visual studio 2012\Projects\acumuladores\acumuladores\bin\Debug\acumuladores.exe.config
+c:\users\adsi\documents\visual studio 2012\Projects\acumuladores\acumuladores\obj\Debug\acumuladores.csprojResolveAssemblyReference.cache
+c:\users\adsi\documents\visual studio 2012\Projects\acumuladores\acumuladores\bin\Debug\acumuladores.exe
+c:\users\adsi\documents\visual studio 2012\Projects\acumuladores\acumuladores\bin\Debug\acumuladores.pdb
+c:\users\adsi\documents\visual studio 2012\Projects\acumuladores\acumuladores\obj\Debug\acumuladores.exe
+c:\users\adsi\documents\visual studio 2012\Projects\acumuladores\acumuladores\obj\Debug\acumuladores.pdb

@@ -1,0 +1,5 @@
+c:\users\adsi\documents\visual studio 2012\Projects\Contadores\Contadores\bin\Debug\Contadores.exe.config
+c:\users\adsi\documents\visual studio 2012\Projects\Contadores\Contadores\bin\Debug\Contadores.exe
+c:\users\adsi\documents\visual studio 2012\Projects\Contadores\Contadores\bin\Debug\Contadores.pdb
+c:\users\adsi\documents\visual studio 2012\Projects\Contadores\Contadores\obj\Debug\Contadores.exe
+c:\users\adsi\documents\visual studio 2012\Projects\Contadores\Contadores\obj\Debug\Contadores.pdb

@@ -1,0 +1,6 @@
+c:\users\adsi\documents\visual studio 2012\Projects\estructura_repetirtiva_while\estructura_repetirtiva_while\bin\Debug\estructura_repetirtiva_while.exe.config
+c:\users\adsi\documents\visual studio 2012\Projects\estructura_repetirtiva_while\estructura_repetirtiva_while\obj\Debug\estructura_repetirtiva_while.csprojResolveAssemblyReference.cache
+c:\users\adsi\documents\visual studio 2012\Projects\estructura_repetirtiva_while\estructura_repetirtiva_while\bin\Debug\estructura_repetirtiva_while.exe
+c:\users\adsi\documents\visual studio 2012\Projects\estructura_repetirtiva_while\estructura_repetirtiva_while\bin\Debug\estructura_repetirtiva_while.pdb
+c:\users\adsi\documents\visual studio 2012\Projects\estructura_repetirtiva_while\estructura_repetirtiva_while\obj\Debug\estructura_repetirtiva_while.exe
+c:\users\adsi\documents\visual studio 2012\Projects\estructura_repetirtiva_while\estructura_repetirtiva_while\obj\Debug\estructura_repetirtiva_while.pdb

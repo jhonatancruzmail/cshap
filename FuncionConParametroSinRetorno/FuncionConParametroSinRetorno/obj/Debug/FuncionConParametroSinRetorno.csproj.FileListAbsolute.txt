@@ -1,0 +1,6 @@
+C:\Users\cuenta\Documents\htc\FuncionConParametroSinRetorno\FuncionConParametroSinRetorno\bin\Debug\FuncionConParametroSinRetorno.exe.config
+C:\Users\cuenta\Documents\htc\FuncionConParametroSinRetorno\FuncionConParametroSinRetorno\bin\Debug\FuncionConParametroSinRetorno.exe
+C:\Users\cuenta\Documents\htc\FuncionConParametroSinRetorno\FuncionConParametroSinRetorno\bin\Debug\FuncionConParametroSinRetorno.pdb
+C:\Users\cuenta\Documents\htc\FuncionConParametroSinRetorno\FuncionConParametroSinRetorno\obj\Debug\FuncionConParametroSinRetorno.csprojResolveAssemblyReference.cache
+C:\Users\cuenta\Documents\htc\FuncionConParametroSinRetorno\FuncionConParametroSinRetorno\obj\Debug\FuncionConParametroSinRetorno.exe
+C:\Users\cuenta\Documents\htc\FuncionConParametroSinRetorno\FuncionConParametroSinRetorno\obj\Debug\FuncionConParametroSinRetorno.pdb

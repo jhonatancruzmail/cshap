@@ -1,0 +1,6 @@
+C:\Users\adsi\Documents\Visual Studio 2012\Projects\condicional_if\condicional_if\bin\Debug\condicional_if.exe.config
+C:\Users\adsi\Documents\Visual Studio 2012\Projects\condicional_if\condicional_if\obj\Debug\condicional_if.csprojResolveAssemblyReference.cache
+C:\Users\adsi\Documents\Visual Studio 2012\Projects\condicional_if\condicional_if\bin\Debug\condicional_if.exe
+C:\Users\adsi\Documents\Visual Studio 2012\Projects\condicional_if\condicional_if\bin\Debug\condicional_if.pdb
+C:\Users\adsi\Documents\Visual Studio 2012\Projects\condicional_if\condicional_if\obj\Debug\condicional_if.exe
+C:\Users\adsi\Documents\Visual Studio 2012\Projects\condicional_if\condicional_if\obj\Debug\condicional_if.pdb

@@ -1,0 +1,6 @@
+c:\users\cuenta\documents\visual studio 2012\Projects\for\for\bin\Debug\@for.exe.config
+c:\users\cuenta\documents\visual studio 2012\Projects\for\for\bin\Debug\@for.exe
+c:\users\cuenta\documents\visual studio 2012\Projects\for\for\bin\Debug\@for.pdb
+c:\users\cuenta\documents\visual studio 2012\Projects\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+c:\users\cuenta\documents\visual studio 2012\Projects\for\for\obj\Debug\@for.exe
+c:\users\cuenta\documents\visual studio 2012\Projects\for\for\obj\Debug\@for.pdb

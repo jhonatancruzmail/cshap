@@ -1,0 +1,6 @@
+C:\Users\cuenta\Documents\htc\for\operacionesaritmeticas\operacionesaritmeticas\bin\Debug\operacionesaritmeticas.exe.config
+C:\Users\cuenta\Documents\htc\for\operacionesaritmeticas\operacionesaritmeticas\bin\Debug\operacionesaritmeticas.exe
+C:\Users\cuenta\Documents\htc\for\operacionesaritmeticas\operacionesaritmeticas\bin\Debug\operacionesaritmeticas.pdb
+C:\Users\cuenta\Documents\htc\for\operacionesaritmeticas\operacionesaritmeticas\obj\Debug\operacionesaritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\cuenta\Documents\htc\for\operacionesaritmeticas\operacionesaritmeticas\obj\Debug\operacionesaritmeticas.exe
+C:\Users\cuenta\Documents\htc\for\operacionesaritmeticas\operacionesaritmeticas\obj\Debug\operacionesaritmeticas.pdb

@@ -1,0 +1,5 @@
+c:\users\adsi\documents\visual studio 2012\Projects\acumular\acumular\bin\Debug\acumular.exe.config
+c:\users\adsi\documents\visual studio 2012\Projects\acumular\acumular\bin\Debug\acumular.exe
+c:\users\adsi\documents\visual studio 2012\Projects\acumular\acumular\bin\Debug\acumular.pdb
+c:\users\adsi\documents\visual studio 2012\Projects\acumular\acumular\obj\Debug\acumular.exe
+c:\users\adsi\documents\visual studio 2012\Projects\acumular\acumular\obj\Debug\acumular.pdb

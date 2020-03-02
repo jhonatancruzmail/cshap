@@ -1,0 +1,6 @@
+c:\users\adsi\documents\visual studio 2012\Projects\guardarenarray\guardarenarray\bin\Debug\guardarenarray.exe.config
+c:\users\adsi\documents\visual studio 2012\Projects\guardarenarray\guardarenarray\bin\Debug\guardarenarray.exe
+c:\users\adsi\documents\visual studio 2012\Projects\guardarenarray\guardarenarray\bin\Debug\guardarenarray.pdb
+c:\users\adsi\documents\visual studio 2012\Projects\guardarenarray\guardarenarray\obj\Debug\guardarenarray.csprojResolveAssemblyReference.cache
+c:\users\adsi\documents\visual studio 2012\Projects\guardarenarray\guardarenarray\obj\Debug\guardarenarray.exe
+c:\users\adsi\documents\visual studio 2012\Projects\guardarenarray\guardarenarray\obj\Debug\guardarenarray.pdb

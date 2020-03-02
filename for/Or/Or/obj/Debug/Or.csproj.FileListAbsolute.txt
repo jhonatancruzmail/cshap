@@ -1,0 +1,6 @@
+C:\Users\cuenta\Documents\htc\for\Or\Or\bin\Debug\Or.exe.config
+C:\Users\cuenta\Documents\htc\for\Or\Or\bin\Debug\Or.exe
+C:\Users\cuenta\Documents\htc\for\Or\Or\bin\Debug\Or.pdb
+C:\Users\cuenta\Documents\htc\for\Or\Or\obj\Debug\Or.csprojResolveAssemblyReference.cache
+C:\Users\cuenta\Documents\htc\for\Or\Or\obj\Debug\Or.exe
+C:\Users\cuenta\Documents\htc\for\Or\Or\obj\Debug\Or.pdb

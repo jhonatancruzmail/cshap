@@ -1,0 +1,6 @@
+c:\users\adsi\documents\visual studio 2012\Projects\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe.config
+c:\users\adsi\documents\visual studio 2012\Projects\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe
+c:\users\adsi\documents\visual studio 2012\Projects\condicional_switch\condicional_switch\bin\Debug\condicional_switch.pdb
+c:\users\adsi\documents\visual studio 2012\Projects\condicional_switch\condicional_switch\obj\Debug\condicional_switch.csprojResolveAssemblyReference.cache
+c:\users\adsi\documents\visual studio 2012\Projects\condicional_switch\condicional_switch\obj\Debug\condicional_switch.exe
+c:\users\adsi\documents\visual studio 2012\Projects\condicional_switch\condicional_switch\obj\Debug\condicional_switch.pdb

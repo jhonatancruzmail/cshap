@@ -1,0 +1,6 @@
+c:\users\adsi\documents\visual studio 2012\Projects\trabajo\trabajo\bin\Debug\trabajo.exe.config
+c:\users\adsi\documents\visual studio 2012\Projects\trabajo\trabajo\obj\Debug\trabajo.csprojResolveAssemblyReference.cache
+c:\users\adsi\documents\visual studio 2012\Projects\trabajo\trabajo\bin\Debug\trabajo.exe
+c:\users\adsi\documents\visual studio 2012\Projects\trabajo\trabajo\bin\Debug\trabajo.pdb
+c:\users\adsi\documents\visual studio 2012\Projects\trabajo\trabajo\obj\Debug\trabajo.exe
+c:\users\adsi\documents\visual studio 2012\Projects\trabajo\trabajo\obj\Debug\trabajo.pdb

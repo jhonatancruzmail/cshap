@@ -1,0 +1,5 @@
+C:\Users\cuenta\Documents\htc\funcionesconparametrosconretornos\funcionesconparametrosconretornos\bin\Debug\funcionesconparametrosconretornos.exe.config
+C:\Users\cuenta\Documents\htc\funcionesconparametrosconretornos\funcionesconparametrosconretornos\bin\Debug\funcionesconparametrosconretornos.exe
+C:\Users\cuenta\Documents\htc\funcionesconparametrosconretornos\funcionesconparametrosconretornos\bin\Debug\funcionesconparametrosconretornos.pdb
+C:\Users\cuenta\Documents\htc\funcionesconparametrosconretornos\funcionesconparametrosconretornos\obj\Debug\funcionesconparametrosconretornos.exe
+C:\Users\cuenta\Documents\htc\funcionesconparametrosconretornos\funcionesconparametrosconretornos\obj\Debug\funcionesconparametrosconretornos.pdb
