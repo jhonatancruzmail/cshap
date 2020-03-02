@@ -1,0 +1,6 @@
+C:\Users\cuenta\Documents\htc\atributos\atributos\bin\Debug\atributos.exe.config
+C:\Users\cuenta\Documents\htc\atributos\atributos\obj\Debug\atributos.csprojResolveAssemblyReference.cache
+C:\Users\cuenta\Documents\htc\atributos\atributos\bin\Debug\atributos.exe
+C:\Users\cuenta\Documents\htc\atributos\atributos\bin\Debug\atributos.pdb
+C:\Users\cuenta\Documents\htc\atributos\atributos\obj\Debug\atributos.exe
+C:\Users\cuenta\Documents\htc\atributos\atributos\obj\Debug\atributos.pdb
